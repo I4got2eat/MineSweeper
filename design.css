@@ -1,0 +1,87 @@
+body{
+    font-family: Andale Mono, monospace;
+    background-color: darkgray;
+    text-align: center;
+    color: white;
+}
+
+
+
+h1{
+    background-color: gray;
+    border: 3px solid black;
+    display: inline-block;
+    padding-left: 3px;
+}
+
+button{
+    font-family: Andale Mono, monospace;
+    background-color: gray;
+    font-weight: bold;
+    font-size: 120%;
+    color: white;
+
+}
+
+.Design{
+    font-weight: bold;
+}
+
+.titulas{
+
+
+}
+.result{
+    text-align: center;
+    background-color: rgb(180, 17, 69);
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 15px;
+}
+
+input{
+    font-weight: bold;
+    background-color: gray;
+    color: white;
+}
+
+
+table, td, tr{
+
+    
+    width: 30px;
+    height: 30px;
+    min-width: 30px;
+    margin: 0px;
+    
+}
+
+td{
+    background-image: url("back.png");
+    padding: 0px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+    border: 0px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table.no-spacing{
+    border-spacing: 0;
+    border-collapse: collapse;
+
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#Display{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+}
